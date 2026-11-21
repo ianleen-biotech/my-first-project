@@ -1,0 +1,7 @@
+MY FIRST BIOTECHNOLOGY PROJECT
+Project: Bacterial Growth Data
+Purpose:
+To learn how to organie scientific data
+using Github.
+Field: Medical Biotechnology
+Student :Medical Biotechnology learner
